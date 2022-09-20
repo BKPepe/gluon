@@ -289,6 +289,13 @@ mpc85xx-p1020
 
   - Panda
 
+mvebu-cortexa9
+-------------
+
+* CZ.NIC
+
+  - Turris Omnia
+
 ramips-mt7620
 -------------
 
